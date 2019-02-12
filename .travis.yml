@@ -1,0 +1,26 @@
+
+sudo: false
+
+language: go
+
+# Force-enable Go modules. This will be unnecessary when Go 1.12 lands.
+env:
+  - GO111MODULE=on
+
+go:
+  - 1.11.x
+
+# Only clone the most recent commit.
+git:
+  depth: 1
+
+install: false
+
+# Email me the results of the test runs.
+notifications:
+  email:
+    - vishal3152@gmail.com
+
+# script always runs to completion (set +e).
+script:
+  - go test -v -race ./...  # Run all the tests with the race detector enabled

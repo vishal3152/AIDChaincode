@@ -1,0 +1,8 @@
+/src/debug
+/.vscode
+/src/aidcc.exe
+aidcc/aidcc.exe
+/aidcc/debug
+/aidcc/vendor/github.com
+/aidcc/vendor/*
+!/aidcc/vendor/vendor.json
