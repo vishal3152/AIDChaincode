@@ -1,4 +1,4 @@
-﻿[![Build Status](https://travis-ci.org/vishal3152/AIDChaincode.svg?branch=master)](https://travis-ci.org/vishal3152/AIDChaincode)
+[![Build Status](https://travis-ci.org/vishal3152/AIDChaincode.svg?branch=master)](https://travis-ci.org/vishal3152/AIDChaincode)
 
 # AIDChaincode
 Chaincode for managing life cycle of charity donations and spends.
