@@ -1,7 +1,7 @@
 ﻿[![Build Status](https://travis-ci.org/vishal3152/AIDChaincode.svg?branch=master)](https://travis-ci.org/vishal3152/AIDChaincode)
 
 # AIDChaincode
-Chaincode for mannaging lifecyle of a charity donations and spends.
+Chaincode for managing lifecycle of a charity donations and spends.
 
 ### Project structure:
 ```sh
